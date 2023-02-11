@@ -1,6 +1,7 @@
-====
-pylk
-====
+.. image:: https://github.com/clea/pylk/raw/main/images/pylk.svg
+   :align: left
+   :height: 200
+   :alt: pylk
 
 ``pylk`` is a machine-learning utility library.
 
